@@ -20,7 +20,7 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * hoare_partition: Order a subset of an array of integers according
+ * hoare_partition -  Order a subset of an array of integers according
  * to the hoare partition schceme.
  * @array: The array of integers
  * @size: The size of the array
